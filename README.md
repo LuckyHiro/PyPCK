@@ -16,7 +16,7 @@ A python CLI based program to create and edit Minecraft legacy skin packs easily
 
 ## Important Info
 
-> **PyPCK will ask which platform the pack is being made for, as there are two types of pck pack formats for legacy console. Each console is listed out fully in PyPCK, but they are placed in groups that may seem odd at first. 
+> **PyPCK will ask which platform the pack is being made for, as there are two types of pck pack formats for legacy console. Each console is listed out fully in PyPCK, but they are placed in groups that may seem odd at first.**
 > 
 > - **Normal PCK Packs:** Windows64 Leak, Xbox 360, PS3, Wii U, 3Ds. This is the "default"/first version of pck packs.
 > 
