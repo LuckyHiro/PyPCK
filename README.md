@@ -32,9 +32,9 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 ## Project Layout
 
-|_ pypck.py (Program Launch Script
+- pypck.py (Program Launch Script
 
-|_ /Backend
+- /Backend
 
    |_ Questions.py (Handles the questions)
   
