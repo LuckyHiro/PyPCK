@@ -34,21 +34,23 @@ ________________________________________________________________________________
 
 |_ /Backend
 
-  |_ Questions.py (Handles the questions)
+   |_ Questions.py (Handles the questions)
   
-  |_ PCKReader.py (Handles Reading PCK Packs)
+   |_ PCKReader.py (Handles Reading PCK Packs)
   
-  |_ ExtractPacks.py (Handles Extracting Packs)
+   |_ ExtractPacks.py (Handles Extracting Packs)
   
-  |_ EditPacks.py (Handles Editing Packs)
+   |_ EditPacks.py (Handles Editing Packs)
   
-  |_ LOCFile.py (Handles LoC part of adding skins)
+   |_ LOCFile.py (Handles LoC part of adding skins)
   
-  |_ NormalPacks.py (Handles comp for normal packs)
+   |_ NormalPacks.py (Handles comp for normal packs)
   
-  |_ LittleEndianPacks.py (Handles comp for the special/newer packs)
-  |_ Art.txt (Program Banner)
-  |_ __init__.py (allows for the backend folder so the root isn't a mess)
+   |_ LittleEndianPacks.py (Handles comp for the special/newer packs)
+   
+   |_ Art.txt (Program Banner)
+   
+   |_ __init__.py (allows for the backend folder so the root isn't a mess)
 
 
 
