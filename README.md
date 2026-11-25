@@ -27,6 +27,8 @@ ________________________________________________________________________________
 > 
 > - **Special PCK Packs:** PS Vita, Xbox One, PS4, & Switch. This is the newer version of pck packs
 
+> The program is heavily based on PCKStudio. I just wanted a faster version that automated large chunks of it.
+
 _________________________________________________________________________________
 ## Project Layout
 
