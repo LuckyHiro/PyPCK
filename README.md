@@ -14,6 +14,10 @@ A python CLI based program to create and edit Minecraft legacy skin packs easily
 
 - Edit Existing Skin Packs
 
+- IDs are auto generated
+
+- Names are auto made based on the skin/cape file name. 
+
 ## Important Info
 
 > **PyPCK will ask which platform the pack is being made for, as there are two types of pck pack formats for legacy console. Each console is listed out fully in PyPCK, but they are placed in groups that may seem odd at first.**
